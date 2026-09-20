@@ -53,6 +53,13 @@ Zwięzły przegląd wybranych osiągnięć związanych z Puzzle Club, grami mate
 - **Finalista Pucharu Polski w Rozwiązywaniu Łamigłówek**.
 
 
+## Konkursy Programistyczne
+
+### 2019
+
+- **4. miejsce, TOP 1%** w konkursie **Rockwell Automation Challenge** — międzynarodowym konkursie programistycznym w C++/C na platformie ChallengeRocket — 400/425 punktów (94%), czas 113:18.
+
+
 ## Matematyka i Konkursy Techniczne
 
 ### 1995

@@ -43,6 +43,12 @@ A concise overview of selected achievements related to Puzzle Club, mathematical
 - **Finalist** of the Polish Puzzle Championship Cup.
 
 
+## Programming Competitions
+
+### 2019
+- **4th place, TOP 1%** in the **Rockwell Automation Challenge**, an international C++/C coding competition on the ChallengeRocket platform — 400/425 points (94%), completed in 113:18.
+
+
 ## Mathematics & Technical Competitions
 
 ### 1995
