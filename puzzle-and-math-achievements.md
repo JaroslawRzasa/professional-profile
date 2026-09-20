@@ -14,10 +14,10 @@ A concise overview of selected achievements related to Puzzle Club, mathematical
 ### 2000
 - **Polish representative** at the **14th International French Championship in Mathematical and Logical Games** in Paris — **16th place**.
 
-### 2001
+### 2008
 - **Laureate** of the Mathematical and Logical Games Competition in the **HC category** — for professionals working in mathematics and computer science.
 
-### 2008
+### 2001
 - **Laureate** of the Mathematical and Logical Games Competition in the **HC category** — for professionals working in mathematics and computer science.
 
 ### 2000
