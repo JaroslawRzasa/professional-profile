@@ -1,5 +1,7 @@
 # Osiągnięcia w dziedzinie matematyki, logiki i łamigłówek
 
+Zwięzły przegląd wybranych osiągnięć związanych z Puzzle Club, grami matematycznymi i logicznymi, rozwiązywaniem łamigłówek oraz matematyką wyczynową.
+
 ## Mentoring
 
 ### 2023
@@ -16,7 +18,7 @@
 
 ### 2008
 
-- **Laureat Mistrzostw Polski w Grach Matematycznych i Logicznyc** w **kategorii HC** — osoby zawodowo zajmujące się matematyką i informatyką.
+- **Laureat Mistrzostw Polski w Grach Matematycznych i Logicznych** w **kategorii HC** — osoby zawodowo zajmujące się matematyką i informatyką.
 
 ### 2001
 

@@ -6,7 +6,7 @@ A concise overview of selected achievements related to Puzzle Club, mathematical
 
 ### 2023
 - **World Champion – student achievement**
-  - Jan Micyk, a Puzzle Club student whom I mentored for seven years, won the **World Champion title** at the International Championships in Mathematical and Logical Games in the **C2 category** *(students in the final year of primary school and the first year of secondary school)
+  - Jan Micyk, a Puzzle Club student whom I mentored for seven years, won the **World Champion title** at the International Championships in Mathematical and Logical Games in the **C2 category** *(students in the final year of primary school and the first year of secondary school)*.
 
 
 ## Mathematical & Logical Games
@@ -15,7 +15,7 @@ A concise overview of selected achievements related to Puzzle Club, mathematical
 - **Polish representative** at the **14th International French Championship in Mathematical and Logical Games** in Paris — **16th place**.
 
 ### 2008
-- **Laureate** of the Mathematical and Logical Games Competition in the **HC category** — for professionals working in mathematics and computer science.
+- **Laureate** of the Polish Championship in Mathematical and Logical Games in the **HC category** — for professionals working in mathematics and computer science.
 
 ### 2001
 - **Laureate** of the Mathematical and Logical Games Competition in the **HC category** — for professionals working in mathematics and computer science.
