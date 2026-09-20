@@ -10,13 +10,14 @@ Oprogramowanie do rozwiązywania łamigłówek matematycznych i logicznych — i
 
 ## Comernal Software
 
-Zlecenie kontraktowe dla klienta Leica Geosystems, część Hexagon.
-
 ### Cyclone REGISTER 360 PLUS
-Oprogramowanie do rejestracji i przetwarzania chmur punktów ze skanów laserowych, wykorzystywane do dopasowywania ustawień skanów, zarządzania projektami rejestracji oraz generowania danych wyjściowych dla geodezji, budownictwa i procesów BIM/AEC. Główny wkład: rozwój nowego systemu GeoTag — w szczególności wieloaktywowych tagów (multi-asset GeoTags), pozwalających dołączyć do pojedynczego GeoTaga wiele plików, linków i materiałów multimedialnych, takich jak raporty odchyłek BIM, harmonogramy konserwacji czy informacje gwarancyjne — a także bieżące poprawianie błędów.
+Oprogramowanie do rejestracji i przetwarzania chmur punktów ze skanów laserowych, rozwijane dla klienta Leica Geosystems (część Hexagon), wykorzystywane do dopasowywania ustawień skanów, zarządzania projektami rejestracji oraz generowania danych wyjściowych dla geodezji, budownictwa i procesów BIM/AEC. Główny wkład: rozwój nowego systemu GeoTag — w szczególności wieloaktywowych tagów (multi-asset GeoTags), pozwalających dołączyć do pojedynczego GeoTaga wiele plików, linków i materiałów multimedialnych, takich jak raporty odchyłek BIM, harmonogramy konserwacji czy informacje gwarancyjne — a także bieżące poprawianie błędów.
 
 ### Leica GR30 & GR50
-Serwery referencyjne GNSS obsługujące wszystkie główne globalne konstelacje GNSS (GPS, GLONASS, Galileo, BeiDou) oraz systemy regionalne, z pełną funkcjonalnością serwera/klienta/castera NTRIP. Główny wkład: portowanie oprogramowania odbiornika z Windows CE na platformę linuksową (projekt Yocto), dodawanie obsługi nowych typów sygnałów GNSS równolegle do ich globalnego wdrażania na świecie, implementacja obsługi IPv6 oraz bieżące poprawianie błędów. Wprowadzenie automatycznych testów funkcjonalnych dla tej linii produktowej (pierwszego tego typu rozwiązania w zespole): framework testowy w Pythonie z wykorzystaniem Selenium i ChromeDriver.
+Serwery referencyjne GNSS, rozwijane dla tego samego klienta, obsługujące wszystkie główne globalne konstelacje GNSS (GPS, GLONASS, Galileo, BeiDou) oraz systemy regionalne, z pełną funkcjonalnością serwera/klienta/castera NTRIP. Główny wkład: portowanie oprogramowania odbiornika z Windows CE na platformę linuksową (projekt Yocto), dodawanie obsługi nowych typów sygnałów GNSS równolegle do ich globalnego wdrażania na świecie, implementacja obsługi IPv6 oraz bieżące poprawianie błędów. Wprowadzenie automatycznych testów funkcjonalnych dla tej linii produktowej (pierwszego tego typu rozwiązania w zespole): framework testowy w Pythonie z wykorzystaniem Selenium i ChromeDriver.
+
+### Meet and Play
+Autorska gra na Androida (Nim, matematyczno-logiczna) tworzona po godzinach z trzema kolegami z Comernal Software, prowadzona jako rozwój własnego produktu. Zaprojektowanie podziału MVC między silnikiem gry w C# a warstwą prezentacji w Unity, połączenie ról Product Ownera i dewelopera oraz wydanie gry w Google Play.
 
 
 ## Rockwell Automation
