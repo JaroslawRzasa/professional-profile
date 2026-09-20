@@ -8,48 +8,41 @@ Przegląd najważniejszych produktów, narzędzi i funkcjonalności, które zapr
 Oprogramowanie do rozwiązywania łamigłówek matematycznych i logicznych — implementacja algorytmów rozwiązujących w Pythonie, C# i C++.
 
 
+## Comernal Software
+
+Zlecenie kontraktowe dla klienta Leica Geosystems, część Hexagon.
+
+### Cyclone REGISTER 360 PLUS
+Oprogramowanie do rejestracji i przetwarzania chmur punktów ze skanów laserowych, wykorzystywane do dopasowywania ustawień skanów, zarządzania projektami rejestracji oraz generowania danych wyjściowych dla geodezji, budownictwa i procesów BIM/AEC. Główny wkład: rozwój nowego systemu GeoTag — w szczególności wieloaktywowych tagów (multi-asset GeoTags), pozwalających dołączyć do pojedynczego GeoTaga wiele plików, linków i materiałów multimedialnych, takich jak raporty odchyłek BIM, harmonogramy konserwacji czy informacje gwarancyjne — a także bieżące poprawianie błędów.
+
+### Leica GR30 & GR50
+Serwery referencyjne GNSS obsługujące wszystkie główne globalne konstelacje GNSS (GPS, GLONASS, Galileo, BeiDou) oraz systemy regionalne, z pełną funkcjonalnością serwera/klienta/castera NTRIP. Główny wkład: portowanie oprogramowania odbiornika z Windows CE na platformę linuksową (projekt Yocto), dodawanie obsługi nowych typów sygnałów GNSS równolegle do ich globalnego wdrażania na świecie, implementacja obsługi IPv6 oraz bieżące poprawianie błędów. Wprowadzenie automatycznych testów funkcjonalnych dla tej linii produktowej (pierwszego tego typu rozwiązania w zespole): framework testowy w Pythonie z wykorzystaniem Selenium i ChromeDriver.
+
+
 ## Rockwell Automation
 
 ### Binaryzacja stosu protokołu NetLinx
-Refaktoryzacja firmware'u dla rodziny urządzeń ControlLogix, implementująca protokół NetLinx Unified Common Industrial Protocol i wydzielająca rdzenną bibliotekę komunikacyjną w pełni niezależną od pozostałych warstw firmware'u.
+Refaktoryzacja firmware'u dla rodziny urządzeń ControlLogix — sterowników przemysłowych (PLC) firmy Rockwell Automation stosowanych w automatyce fabrycznej i procesowej — implementująca protokół NetLinx Unified Common Industrial Protocol i wydzielająca rdzenną bibliotekę komunikacyjną w pełni niezależną od pozostałych warstw firmware'u.
 
 
 ## Mentor Graphics
 
 ### Jednostka akwizycji danych (Data Acquisition Unit)
-Element rozwiązania SCADA — jednostka zbierająca dane z wejść i sterująca wyjściami, tłumacząca sygnały na format Open Manufacturing Language (XML/JSON) i przesyłająca je protokołem XMPP. Sprzęt oparty na procesorach Intel Quark i ARM, z dostosowanym systemem Linux zbudowanym w oparciu o projekt Yocto. Aplikacja napisana w C++ i C, zarówno w przestrzeni użytkownika, jak i jądra systemu.
+Produkt rozwijany dla Valor, izraelskiej firmy przejętej przez Mentor Graphics. Element rozwiązania SCADA — jednostka zbierająca dane z wejść i sterująca wyjściami, tłumacząca sygnały na format Open Manufacturing Language (XML/JSON) i przesyłająca je protokołem XMPP. Sprzęt oparty na procesorach Intel Quark i ARM, z dostosowanym systemem Linux zbudowanym w oparciu o projekt Yocto. Aplikacja napisana w C++ i C, zarówno w przestrzeni użytkownika, jak i jądra systemu.
 
-### Xpedition PCB – sterowanie widokiem i komponentami
-Dynamicznie tworzone okno dialogowe do sterowania ponad tysiącem typów elementów w Xpedition PCB, z możliwością włączania/wyłączania widoczności, koloru i wzoru każdego elementu, a także funkcjami ulubionych, zapisu/wczytywania schematów, wyszukiwania i ukrywania elementów. Uzupełnione o eksplorator komponentów do zarządzania ich rozmieszczeniem na płytce. Zbudowane w C++, MFC i COM, dla Windows i Linux (32/64-bit); testowanie w pełni zautomatyzowane.
-Demo: https://www.youtube.com/watch?v=tRvLLJtTwW4&feature=youtu.be
+### Xpedition PCB
+Pozostałe funkcjonalności rozwijałem w ramach Xpedition PCB — profesjonalnego pakietu Mentor Graphics do projektowania i layoutu płytek drukowanych, wykorzystywanego przez inżynierów elektroników do projektowania PCB i obudów scalonych. Zbudowane głównie w C++ z MFC i COM (oraz OpenGL do wizualizacji 3D), dla Windows, Linux, SunOS i HP-UX (32/64-bit), z w pełni zautomatyzowanymi testami jednostkowymi i funkcjonalnymi:
 
-### Xpedition PCB – pakiet Wirebonding
-Zaawansowana funkcjonalność do projektowania i weryfikacji połączeń drutowych w obudowach scalonych:
-- Modelowanie drutów za pomocą równań parametrycznych, z zaokrąglonymi narożami lub krzywymi Béziera
-- Weryfikacja reguł projektowych w 3D (3D DRC) pod kątem zagrożeń wynikających z bliskości elementów, w trybie online i wsadowym
-- Automatyczne generowanie wzorów połączeń drutowych z pełną walidacją 3D DRC
-- Konfigurowalne reguły i parametry dla połączeń wielodrutowych
-- Obsługa układania stosów (die stacking) i wnęk (cavities)
-
-Zbudowane w C++, MFC, COM i OpenGL, dla Windows, Linux, SunOS i HP-UX (32/64-bit); w pełni zautomatyzowane testy jednostkowe i funkcjonalne.
-Demo: https://youtu.be/xMeAEk12Yfw
-
-### Xpedition PCB – projektowanie RF
-Funkcjonalność do projektowania elementów wielkiej częstotliwości (RF) na płytce PCB:
-- Generowanie przelotek (stitch via) minimalizujących straty promieniowania, rozmieszczanych wewnątrz płaszczyzn, wzdłuż konturu lub we wzorach promienistych bądź macierzowych
-- Reguły wejścia określające kierunek połączeń elementów RF, w trybie ręcznym i automatycznym
-
-Zbudowane w C++, MFC i COM, dla Windows, Linux, SunOS i HP-UX (32/64-bit); w pełni zautomatyzowane testy jednostkowe i funkcjonalne.
-Demo: https://youtu.be/qaeOii1rLN0
-
-### Xpedition PCB – elementy bierne wbudowane
-Funkcjonalność do projektowania wbudowanych elementów biernych bezpośrednio na płytce PCB. Zbudowane w C++, MFC i COM, dla Windows, Linux, SunOS i HP-UX (32/64-bit); w pełni zautomatyzowane testy jednostkowe i funkcjonalne.
+- **Sterowanie widokiem i komponentami** — dynamicznie tworzone okno dialogowe do sterowania ponad tysiącem typów elementów, z możliwością włączania/wyłączania widoczności, koloru i wzoru każdego elementu, funkcjami ulubionych, zapisu/wczytywania schematów, wyszukiwania i ukrywania elementów, uzupełnione o eksplorator komponentów do zarządzania ich rozmieszczeniem na płytce.
+- **Pakiet Wirebonding** — zaawansowana funkcjonalność do projektowania i weryfikacji połączeń drutowych w obudowach scalonych: modelowanie drutów za pomocą równań parametrycznych z zaokrąglonymi narożami lub krzywymi Béziera, weryfikacja reguł projektowych w 3D (3D DRC) pod kątem zagrożeń wynikających z bliskości elementów (tryb online i wsadowy), automatyczne generowanie wzorów połączeń drutowych z pełną walidacją 3D DRC, konfigurowalne reguły dla połączeń wielodrutowych oraz obsługa układania stosów i wnęk.
+- **Projektowanie RF** — generowanie przelotek (stitch via) minimalizujących straty promieniowania (wewnątrz płaszczyzn, wzdłuż konturu lub we wzorach promienistych bądź macierzowych) oraz reguły wejścia określające kierunek połączeń elementów RF, w trybie ręcznym i automatycznym.
+- **Elementy bierne wbudowane** — projektowanie wbudowanych elementów biernych bezpośrednio na płytce PCB.
 
 
-## Proventus sp. z o.o. *(dodatkowe zlecenie, kontrakt B2B)*
+## Proventus sp. z o.o.
 
 ### Aplikacja do zarządzania krosownicami
-Aplikacja desktopowa dla Windows do audytowania krosownic telekomunikacyjnych, zbudowana w C++ z lokalną bazą danych SQLite.
+Dodatkowe zlecenie, kontrakt B2B: aplikacja desktopowa dla Windows do audytowania krosownic telekomunikacyjnych, zbudowana w C++ z lokalną bazą danych SQLite.
 
 
 ## Centrum Elektryfikacji i Automatyzacji Górnictwa „EMAG” - ośrodek badawczo rozwojowy

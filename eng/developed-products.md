@@ -8,48 +8,41 @@ A curated overview of the products, tools, and functionalities I have designed a
 Developed software for solving math and logic puzzles, implementing solving algorithms in Python, C#, and C++.
 
 
+## Comernal Software
+
+Contract engagement for client Leica Geosystems, part of Hexagon.
+
+### Cyclone REGISTER 360 PLUS
+Point-cloud registration and processing software for laser scan data, used to align scan setups, manage registration projects, and produce deliverables for surveying, construction, and BIM/AEC workflows. Main contribution: the new GeoTag system — particularly multi-asset GeoTags, which let a single tag carry several attached files, links, and multimedia items such as BIM deviation reports, maintenance schedules, or warranty information — plus ongoing bug fixing.
+
+### Leica GR30 & GR50
+GNSS reference servers supporting all major global GNSS constellations (GPS, GLONASS, Galileo, BeiDou) and regional augmentation systems, with NTRIP server/client/caster functionality. Main contribution: porting the receiver software from Windows CE to a Linux-based platform (Yocto Project), adding support for new GNSS signal types alongside their global rollout, implementing IPv6 networking, and ongoing bug fixing. Introduced automated functional testing for the product line — the first such framework on the team — built in Python with Selenium and ChromeDriver.
+
+
 ## Rockwell Automation
 
 ### NetLinx Protocol Stack Binarization
-Refactored the firmware for the ControlLogix device family, implementing the NetLinx Unified Common Industrial Protocol and extracting a core communication-stack library fully independent from the rest of the firmware layers.
+Refactored the firmware for Rockwell Automation's ControlLogix family of industrial programmable automation controllers (PLCs), implementing the NetLinx Unified Common Industrial Protocol and extracting a core communication-stack library fully independent from the rest of the firmware layers.
 
 
 ## Mentor Graphics
 
 ### Data Acquisition Unit
-A component of a SCADA solution that collects data from inputs and control outputs, translates it into Open Manufacturing Language (XML/JSON), and transports it over XMPP. Built on Intel Quark and ARM hardware running a customized Yocto Linux, with the application written in C++ and C across both userland and kernel space.
+Developed for Valor, an Israeli company acquired by Mentor Graphics. A component of a SCADA solution that collects data from inputs and control outputs, translates it into Open Manufacturing Language (XML/JSON), and transports it over XMPP. Built on Intel Quark and ARM hardware running a customized Yocto Linux, with the application written in C++ and C across both userland and kernel space.
 
-### Xpedition PCB – Display & Component Control
-A dynamically generated dialog for controlling more than a thousand item types in Xpedition PCB, with per-item visibility, colour, and pattern settings, plus favourites, scheme save/load, search, and hide/show. Complemented by a component explorer for managing component placement on the board. Built with C++, MFC, and COM for Windows and Linux (32/64-bit); testing was fully automated.
-Demo: https://www.youtube.com/watch?v=tRvLLJtTwW4&feature=youtu.be
+### Xpedition PCB
+The remaining contributions were made to Xpedition PCB, Mentor Graphics' professional PCB design and layout software suite used by electronics engineers to design printed circuit boards and IC packaging. Built primarily in C++ with MFC and COM (plus OpenGL for 3D visualization), running on Windows, Linux, SunOS, and HP-UX (32/64-bit), with fully automated unit and functional testing throughout:
 
-### Xpedition PCB – Wirebonding Suite
-Advanced packaging functionality for designing and validating wire bonds in IC packaging:
-- Parametric wire modelling, with rounded or Bézier-curve corners
-- 3D Design Rule Check (DRC) for proximity-hazard detection, in both online and batch modes
-- Automated wire-pattern generation with full 3D DRC validation
-- Configurable rules and parameters for multi-wire-bond connections
-- Die stacking and cavity support
-
-Built with C++, MFC, COM, and OpenGL, for Windows, Linux, SunOS, and HP-UX (32/64-bit); fully automated unit and functional testing.
-Demo: https://youtu.be/xMeAEk12Yfw
-
-### Xpedition PCB – RF Design
-Functionality for designing radio-frequency elements on the PCB:
-- Stitch-via generation to minimize radiation loss, placed within planes, along contours, or in radial/array patterns
-- Entry rules controlling RF connection direction, manually or automatically
-
-Built with C++, MFC, and COM, for Windows, Linux, SunOS, and HP-UX (32/64-bit); fully automated unit and functional testing.
-Demo: https://youtu.be/qaeOii1rLN0
-
-### Xpedition PCB – Embedded Passives
-Functionality for designing embedded passive elements directly on the PCB. Built with C++, MFC, and COM, for Windows, Linux, SunOS, and HP-UX (32/64-bit); fully automated unit and functional testing.
+- **Display & component control** — a dynamically generated dialog for controlling more than a thousand item types, with per-item visibility, colour, and pattern settings, favourites, scheme save/load, search, and hide/show, complemented by a component explorer for managing board placement.
+- **Wirebonding suite** — advanced IC-packaging functionality for designing and validating wire bonds: parametric wire modelling with rounded or Bézier-curve corners, 3D Design Rule Check for proximity-hazard detection (online and batch modes), automated wire-pattern generation with full 3D DRC validation, configurable multi-wire-bond rules, and die stacking/cavity support.
+- **RF design** — stitch-via generation to minimize radiation loss (within planes, along contours, or in radial/array patterns) and entry rules controlling RF connection direction, manually or automatically.
+- **Embedded passives** — design of embedded passive elements directly on the PCB.
 
 
-## Proventus sp. z o.o. *(additional B2B contract engagement)*
+## Proventus sp. z o.o.
 
 ### Crossover Management Application
-A Windows desktop application for auditing telecom crossovers, built in C++ with a local SQLite database.
+Additional B2B contract engagement: a Windows desktop application for auditing telecom crossovers, built in C++ with a local SQLite database.
 
 
 ## R&D Centre for Electrical Engineering and Automation in Mining EMAG
