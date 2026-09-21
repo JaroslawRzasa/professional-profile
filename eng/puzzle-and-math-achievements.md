@@ -11,9 +11,6 @@ A concise overview of selected achievements related to Puzzle Club, mathematical
 
 ## Mathematical & Logical Games
 
-### 2000
-- **Polish representative** at the **14th International French Championship in Mathematical and Logical Games** in Paris — **16th place**.
-
 ### 2008
 - **Laureate** of the Polish Championship in Mathematical and Logical Games in the **HC category** — for professionals working in mathematics and computer science.
 
@@ -21,6 +18,7 @@ A concise overview of selected achievements related to Puzzle Club, mathematical
 - **Laureate** of the Mathematical and Logical Games Competition in the **HC category** — for professionals working in mathematics and computer science.
 
 ### 2000
+- **Polish representative** at the **14th International French Championship in Mathematical and Logical Games** in Paris — **16th place**.
 - **Laureate** of the Mathematical and Logical Games Competition in the **L2 category** — for students of science and engineering under the age of 26.
 
 ### 2005, 2007–2016, 2018–2020, 2022–2023, 2026

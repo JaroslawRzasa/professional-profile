@@ -17,7 +17,7 @@ Zwięzłe podsumowanie mojego doświadczenia zawodowego, pełnionych ról i rozw
 - **Software Engineering Consultant / Scrum Master** — mar 2026 – cze 2026 · 4 mies.
 - **Tech Lead / Software Engineer Consultant** — mar 2025 – lut 2026 · 1 rok
 - **Team Manager Consultant** — cze 2023 – lut 2025 · 1 rok 9 mies.
-- **Scrum Master** — maj 2019 – wrz 2023 · 4 lata 5 mies.
+- **Scrum Master** — maj 2019 – wrz 2023 · 4 lata 5 mies. *(rola równoległa, obok Senior Software Engineer do maja 2023 i Team Manager Consultant od czerwca 2023)*
 - **Senior Software Engineer** — paź 2018 – maj 2023 · 4 lata 8 mies.
 
 
@@ -26,7 +26,7 @@ Zwięzłe podsumowanie mojego doświadczenia zawodowego, pełnionych ról i rozw
 **Pełny etat · gru 2015 – wrz 2018 · 2 lata 10 mies.**
 
 - **Release Train Engineer** — wrz 2016 – wrz 2018 · 2 lata 1 mies.
-- **Scrum Master** — wrz 2016 – wrz 2018 · 2 lata 1 mies.
+- **Scrum Master** — wrz 2016 – wrz 2018 · 2 lata 1 mies. *(rola równoległa, obok Release Train Engineer)*
 - **Embedded Project Software Engineer** — gru 2015 – sie 2016 · 9 mies.
 
 
@@ -35,7 +35,7 @@ Zwięzłe podsumowanie mojego doświadczenia zawodowego, pełnionych ról i rozw
 **Pełny etat · lip 2005 – lis 2015 · 10 lat 5 mies.**
 
 - **Software Development Team Leader** — paź 2014 – lis 2015 · 1 rok 2 mies.
-- **Scrum Master** — paź 2014 – lis 2015 · 1 rok 2 mies.
+- **Scrum Master** — paź 2014 – lis 2015 · 1 rok 2 mies. *(rola równoległa, obok Software Development Team Leader)*
 - **Software Development Engineer** — lip 2005 – wrz 2014 · 9 lat 3 mies.
 
 

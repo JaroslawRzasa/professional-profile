@@ -3,10 +3,11 @@
 A concise overview of professional and scientific recognitions received throughout my career, including company awards, framework development recognition, and academic honors.
 
 ## Leica Geosystems
+Work delivered as a Comernal Software consultant embedded in the client's organization (see [Comernal Software](developed-products.md) in Developed Products).
 
 ### 2021
 
-- **ARISER Framework Development Award** — for ARISER, an agile and scalable approach to software development.
+- **ARISER Framework Development Award** — for ARISER, Leica Geosystems' agile and scalable approach to software development.
 
 
 ## Rockwell Automation

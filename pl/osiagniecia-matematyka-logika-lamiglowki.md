@@ -12,10 +12,6 @@ Zwięzły przegląd wybranych osiągnięć związanych z Puzzle Club, grami mate
 
 ## Gry Matematyczne i Logiczne
 
-### 2000
-
-- **Reprezentant Polski** na **XIV Międzynarodowych Mistrzostwach Francji w Grach Matematycznych i Logicznych** w Paryżu — **16. miejsce**.
-
 ### 2008
 
 - **Laureat Mistrzostw Polski w Grach Matematycznych i Logicznych** w **kategorii HC** — osoby zawodowo zajmujące się matematyką i informatyką.
@@ -26,6 +22,7 @@ Zwięzły przegląd wybranych osiągnięć związanych z Puzzle Club, grami mate
 
 ### 2000
 
+- **Reprezentant Polski** na **XIV Międzynarodowych Mistrzostwach Francji w Grach Matematycznych i Logicznych** w Paryżu — **16. miejsce**.
 - **Laureat Konkursu Gier Matematycznych i Logicznych** w **kategorii L2** — studenci kierunków ścisłych i technicznych, nie starsi niż 26 lat.
 
 ### 2005, 2007–2016, 2018–2020, 2022–2023, 2026

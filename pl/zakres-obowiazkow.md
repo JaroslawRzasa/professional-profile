@@ -22,7 +22,7 @@ Prowadzenie transferu projektu z USA do Polski: przejęcie wiedzy produktowej i 
 Odpowiedzialność za współpracę z kontrahentami B2B: wsparcie, komunikacja, ocena wyników i informacja zwrotna, rekrutacja oraz dbanie o zgodność zespołu z wymogami rynkowymi i prawnymi.
 
 ### Scrum Master — maj 2019 – wrz 2023
-Budowanie i wspieranie zwinnego środowiska pracy dla dwóch zespołów (12 osób); udział w firmowym procesie skalowania zwinności (ARISER — wewnętrzny framework podobny do SAFe).
+Budowanie i wspieranie zwinnego środowiska pracy dla dwóch zespołów (12 osób); udział w procesie skalowania zwinności u klienta Leica Geosystems (ARISER — wewnętrzny framework tej organizacji, podobny do SAFe), realizowany jako konsultant Comernal Software osadzony w strukturach klienta.
 
 ### Senior Software Engineer — paź 2018 – maj 2023
 Rozwój firmware'u, narzędzi pomocniczych i automatyzacji testów dla linii produktowej stacji referencyjnych GNSS (zobacz [Rozwijane Produkty](rozwijane-produkty.md)).

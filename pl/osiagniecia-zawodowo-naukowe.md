@@ -3,10 +3,11 @@
 Zwięzły przegląd nagród i osiągnięć zawodowo-naukowych zdobytych w trakcie mojej kariery, w tym nagród firmowych, uznania za rozwój frameworków oraz wyróżnień akademickich.
 
 ## Leica Geosystems
+Praca realizowana jako konsultant Comernal Software osadzony w strukturach klienta (zobacz sekcję [Comernal Software](rozwijane-produkty.md) w Rozwijanych Produktach).
 
 ### 2021
 
-- **Nagroda za rozwój frameworku ARISER** — zwinnego i skalowanego sposobu rozwoju oprogramowania.
+- **Nagroda za rozwój frameworku ARISER** — wewnętrznego, zwinnego i skalowanego sposobu rozwoju oprogramowania firmy Leica Geosystems.
 
 
 ## Rockwell Automation

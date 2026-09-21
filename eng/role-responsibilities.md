@@ -22,7 +22,7 @@ Led the transfer of a project from the US to Poland: absorbed product knowledge 
 Owned collaboration with B2B contractors: support, communication, performance evaluation and feedback, recruitment, and keeping the team aligned with market and legal requirements.
 
 ### Scrum Master — May 2019 – Sep 2023
-Built and supported an agile working environment for two teams (12 people); contributed to the company's Agile scaling effort (ARISER, an internal framework similar to SAFe).
+Built and supported an agile working environment for two teams (12 people); contributed to Leica Geosystems' Agile scaling effort (ARISER, an internal framework similar to SAFe) while delivering this engagement as a Comernal Software consultant embedded in the client's organization.
 
 ### Senior Software Engineer — Oct 2018 – May 2023
 Firmware, tooling, and test-automation development for the GNSS reference station product line (see [Developed Products](developed-products.md)).
