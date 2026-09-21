@@ -1,6 +1,6 @@
 # Umiejętności
 
-Skategoryzowany przegląd moich kluczowych umiejętności technicznych i zawodowych, odzwierciedlający rekomendacje współpracowników oraz praktyczne doświadczenie w inżynierii oprogramowania, systemach wbudowanych i przywództwie zwinnym.
+Skategoryzowany przegląd moich kluczowych umiejętności technicznych i zawodowych, odzwierciedlający rekomendacje współpracowników oraz praktyczne doświadczenie w inżynierii oprogramowania, systemach wbudowanych i przywództwie zwinnym. Przy części umiejętności dodano odwołania do ról lub produktów, w których zostały wykorzystane — ich brak przy pozostałych pozycjach nie oznacza braku umiejętności, a jedynie brak jednoznacznego potwierdzenia w pozostałych plikach repozytorium.
 
 ## Znajomość Języków
 - Polski — Język ojczysty
@@ -10,7 +10,7 @@ Skategoryzowany przegląd moich kluczowych umiejętności technicznych i zawodow
 - Zwinne wytwarzanie produktu (Agile Product Development)
     - Scrum
     - Kanban
-    - Scaled Agile Framework (SAFe)
+    - Scaled Agile Framework (SAFe) — Rockwell Automation (RTE), certyfikat Certified SAFe Program Consultant
     - Nexus
     - LeSS
 - Lean Software Development
@@ -34,7 +34,7 @@ Skategoryzowany przegląd moich kluczowych umiejętności technicznych i zawodow
 - Algorytmy
 - Programowanie wielowątkowe
 - Test-Driven Development
-- Budowanie automatycznych testów jednostkowych i funkcjonalnych
+- Budowanie automatycznych testów jednostkowych i funkcjonalnych — Leica GR30 & GR50, Xpedition PCB
 - Modelowanie UML
 - Dokumentowanie architektury (szablon arc42)
 - Projektowanie REST API
@@ -47,14 +47,14 @@ Skategoryzowany przegląd moich kluczowych umiejętności technicznych i zawodow
 ## Języki i narzędzia
 - Asystenci AI do programowania — konfiguracja i wykorzystanie (Claude Code, Codex, GitHub Copilot)
 - Prompt Engineering
-- C++ (STL, Boost, Qt)
+- C++ (STL, Boost, Qt) — Xpedition PCB, EMAG, Proventus
 - C
 - C#
 - Python
 - Bash Scripting
 - SQL (SQLite, MySQL, MS SQL Server)
 - Jenkins / TeamCity
-- Yocto Project (Embedded Linux)
+- Yocto Project (Embedded Linux) — Leica GR30 & GR50, Data Acquisition Unit
 - Selenium / WebDriver
 - Programowanie dla Windows
 - Linux
@@ -74,8 +74,8 @@ Skategoryzowany przegląd moich kluczowych umiejętności technicznych i zawodow
 - Facylitacja ciągłego doskonalenia (Continuous Improvement)
 - Porozumienie bez Przemocy (Non-Violent Communication, NVC)
 - Udzielanie informacji zwrotnej (Feedback i Feedforward)
-- Zarządzanie zmianą organizacyjną (Organizational Change Management)
-- Mentoring
+- Zarządzanie zmianą organizacyjną (Organizational Change Management) — Rockwell Automation (Agent Zmiany, rola RTE)
+- Mentoring — Rockwell Automation, Puzzle Club
 - Coaching
 - Tutoring
 - Nauczanie (Teaching)

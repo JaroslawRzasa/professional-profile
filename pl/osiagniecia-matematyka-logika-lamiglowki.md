@@ -6,8 +6,9 @@ Zwięzły przegląd wybranych osiągnięć związanych z Puzzle Club, grami mate
 
 ### 2023
 
-- **Największy sukces wychowawczy – tytuł Mistrza Świata wychowanka Puzzle Club**
-  - Jan Micyk, wychowanek Puzzle Club, który rozwijał się pod moim okiem przez 7 lat, zdobył **tytuł Mistrza Świata** na Międzynarodowych Mistrzostwach w Grach Matematycznych i Logicznych w **kategorii C2** *(uczniowie klasy VIII szkoły podstawowej i klasy pierwszej szkoły średniej)*.
+- **7-letni mentoring wychowanka Puzzle Club, który w 2023 zdobył tytuł Mistrza Świata**
+  - Jan Micyk był wychowankiem Puzzle Club pod moją opieką mentorską przez 7 lat.
+  - W 2023 roku zdobył **tytuł Mistrza Świata** na Międzynarodowych Mistrzostwach w Grach Matematycznych i Logicznych, w **kategorii C2** *(uczniowie klasy VIII szkoły podstawowej i klasy pierwszej szkoły średniej)*.
 
 
 ## Gry Matematyczne i Logiczne

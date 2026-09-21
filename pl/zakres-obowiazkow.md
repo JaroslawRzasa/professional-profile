@@ -4,7 +4,7 @@ Przegląd zakresu i odpowiedzialności w poszczególnych rolach w mojej karierze
 
 ## Puzzle Club
 
-*Jednoosobowa działalność gospodarcza (JDG) — w Polsce jedyna dostępna forma samozatrudnienia dla jednej osoby; w jej ramach prowadzone są wszystkie poniższe linie usług.*
+*Jednoosobowa działalność gospodarcza (JDG), w ramach której prowadzone są poniższe linie działalności.*
 
 ### Założyciel — paź 2012 – obecnie
 - **Doradztwo IT** — inżynieria oprogramowania, organizacja zespołów i zarządzanie IT; usługi programistyczne na zlecenie.
@@ -27,6 +27,7 @@ Dołączenie do projektu rozwijanego wcześniej przez zespół w USA i udział w
 - Koordynowanie i dopilnowanie procesu wydania produktu w okresie transferu odpowiedzialności.
 - Przejmowanie wiedzy produktowej i technicznej potrzebnej do stopniowego usamodzielniania polskiego zespołu.
 
+#### Kontekst zmiany roli — informacja wewnętrzna, nie do bezpośredniego użycia w CV
 W trakcie pełnienia tej roli okazało się, że tempo i zakres przejmowania istniejącego kontekstu produktowego były niewystarczające do osiągnięcia przeze mnie poziomu znajomości całego produktu, którego oczekiwałem od osoby pełniącej funkcję Tech Leada. Z czasem doprowadziło to do decyzji o rezygnacji z tej funkcji i przejściu do innego zakresu odpowiedzialności.
 
 ### Team Manager Consultant — cze 2023 – lut 2025

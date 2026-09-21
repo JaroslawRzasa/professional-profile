@@ -29,7 +29,7 @@ Refactored the firmware for Rockwell Automation's ControlLogix family of industr
 ## Mentor Graphics
 
 ### Data Acquisition Unit
-Developed for Valor, an Israeli company acquired by Mentor Graphics. A component of a SCADA solution that collects data from inputs and control outputs, translates it into Open Manufacturing Language (XML/JSON), and transports it over XMPP. Built on Intel Quark and ARM hardware running a customized Yocto Linux, with the application written in C++ and C across both userland and kernel space.
+Developed for Valor, an Israeli company acquired by Mentor Graphics. A component of a SCADA solution that collects data from inputs and control outputs, translates it into Open Manufacturing Language (XML/JSON), and transports it over XMPP. Built on Intel Quark and ARM hardware running a customized Yocto Linux, with the application written in C++ and C across both userland and kernel space. Main contribution: leading the R&D team that built this product and taking part in building the physical test hardware.
 
 ### Xpedition PCB
 The remaining contributions were made to Xpedition PCB, Mentor Graphics' professional PCB design and layout software suite used by electronics engineers to design printed circuit boards and IC packaging. Built primarily in C++ with MFC and COM (plus OpenGL for 3D visualization), running on Windows, Linux, SunOS, and HP-UX (32/64-bit), with fully automated unit and functional testing throughout:
@@ -48,12 +48,12 @@ Additional engagement, a short specific-task contract (umowa o dzieło, a few we
 
 ## R&D Centre for Electrical Engineering and Automation in Mining EMAG
 
-A series of embedded and desktop C/C++ applications supporting mine safety, monitoring, and industrial communication:
+A series of embedded and desktop C/C++ applications, mostly developed individually, supporting mine safety, monitoring, and industrial communication:
 
 - **Connections Identification Console** — monitors telephone calls, detects DTMF signals, and maintains a connection journal via a serial-connected listening device.
 - **LED Table Control Server** — drives the control-room LED board and maps LEDs to sensors.
 - **MODBUS Communication Server** — a unified library for communication over the Modbus protocol.
 - **People Movement Monitoring System** — tracks miners' locations by region, with a monitoring application and event journal.
-- **Intrinsically-Safe Telecommunications Meter MIT** — a device for auditing electrical lines in mines; covered mechanical design, PCB design, and firmware/PC application development.
+- **Intrinsically-Safe Telecommunications Meter MIT** — a device for auditing electrical lines in mines; covered mechanical design, PCB design, and firmware/PC application development; the only project in this series carried out under a direct supervisor's direction rather than individually.
 - **Data Transmission Library** — a unified communication library supporting configuration of multiple serial communication channels.
 - **Data Distribution Server** — a publisher-subscriber server running on Linux.

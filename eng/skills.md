@@ -1,6 +1,6 @@
 # Skills
 
-A categorized overview of my core technical and professional skills, reflecting peer endorsements and hands-on experience across software engineering, embedded systems, and Agile leadership.
+A categorized overview of my core technical and professional skills, reflecting peer endorsements and hands-on experience across software engineering, embedded systems, and Agile leadership. Some skills carry a pointer to the roles or products where they were used — its absence on other entries does not mean the skill is absent, only that it has no unambiguous confirmation elsewhere in the repository.
 
 ## Spoken Languages
 - Polish — Native
@@ -10,7 +10,7 @@ A categorized overview of my core technical and professional skills, reflecting 
 - Agile Product Development
     - Scrum
     - Kanban
-    - Scaled Agile Framework (SAFe)
+    - Scaled Agile Framework (SAFe) — Rockwell Automation (RTE), Certified SAFe Program Consultant certification
     - Nexus
     - LeSS
 - Lean Software Development
@@ -34,7 +34,7 @@ A categorized overview of my core technical and professional skills, reflecting 
 - Algorithms
 - Multithreaded Programming
 - Test-Driven Development
-- Automated Testing (Unit & Functional)
+- Automated Testing (Unit & Functional) — Leica GR30 & GR50, Xpedition PCB
 - UML Modeling
 - Architecture Documentation (arc42 template)
 - REST API Design
@@ -47,14 +47,14 @@ A categorized overview of my core technical and professional skills, reflecting 
 ## Languages & Tools
 - AI Coding Assistants — configuration & use (Claude Code, Codex, GitHub Copilot)
 - Prompt Engineering
-- C++ (STL, Boost, Qt)
+- C++ (STL, Boost, Qt) — Xpedition PCB, EMAG, Proventus
 - C
 - C#
 - Python
 - Bash Scripting
 - SQL (SQLite, MySQL, MS SQL Server)
 - Jenkins / TeamCity
-- Yocto Project (Embedded Linux)
+- Yocto Project (Embedded Linux) — Leica GR30 & GR50, Data Acquisition Unit
 - Selenium / WebDriver
 - Windows Programming
 - Linux
@@ -74,8 +74,8 @@ A categorized overview of my core technical and professional skills, reflecting 
 - Continuous Improvement Facilitation
 - Non-Violent Communication (NVC)
 - Feedback & Feedforward
-- Organizational Change Management
-- Mentoring
+- Organizational Change Management — Rockwell Automation (Change Agent, RTE role)
+- Mentoring — Rockwell Automation, Puzzle Club
 - Coaching
 - Tutoring
 - Teaching

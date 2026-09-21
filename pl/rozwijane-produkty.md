@@ -29,7 +29,7 @@ Refaktoryzacja firmware'u dla rodziny urządzeń ControlLogix — sterowników p
 ## Mentor Graphics
 
 ### Jednostka akwizycji danych (Data Acquisition Unit)
-Produkt rozwijany dla Valor, izraelskiej firmy przejętej przez Mentor Graphics. Element rozwiązania SCADA — jednostka zbierająca dane z wejść i sterująca wyjściami, tłumacząca sygnały na format Open Manufacturing Language (XML/JSON) i przesyłająca je protokołem XMPP. Sprzęt oparty na procesorach Intel Quark i ARM, z dostosowanym systemem Linux zbudowanym w oparciu o projekt Yocto. Aplikacja napisana w C++ i C, zarówno w przestrzeni użytkownika, jak i jądra systemu.
+Produkt rozwijany dla Valor, izraelskiej firmy przejętej przez Mentor Graphics. Element rozwiązania SCADA — jednostka zbierająca dane z wejść i sterująca wyjściami, tłumacząca sygnały na format Open Manufacturing Language (XML/JSON) i przesyłająca je protokołem XMPP. Sprzęt oparty na procesorach Intel Quark i ARM, z dostosowanym systemem Linux zbudowanym w oparciu o projekt Yocto. Aplikacja napisana w C++ i C, zarówno w przestrzeni użytkownika, jak i jądra systemu. Główny wkład: kierowanie zespołem badawczo-rozwojowym budującym ten produkt oraz udział w budowie fizycznego sprzętu testowego.
 
 ### Xpedition PCB
 Pozostałe funkcjonalności rozwijałem w ramach Xpedition PCB — profesjonalnego pakietu Mentor Graphics do projektowania i layoutu płytek drukowanych, wykorzystywanego przez inżynierów elektroników do projektowania PCB i obudów scalonych. Zbudowane głównie w C++ z MFC i COM (oraz OpenGL do wizualizacji 3D), dla Windows, Linux, SunOS i HP-UX (32/64-bit), z w pełni zautomatyzowanymi testami jednostkowymi i funkcjonalnymi:
@@ -48,12 +48,12 @@ Dodatkowe zlecenie, krótka umowa o dzieło (kilka tygodni, poza JDG Puzzle Club
 
 ## Centrum Elektryfikacji i Automatyzacji Górnictwa „EMAG” - ośrodek badawczo rozwojowy
 
-Seria aplikacji wbudowanych i desktopowych w C/C++, wspierających bezpieczeństwo, monitoring i komunikację przemysłową w kopalniach:
+Seria aplikacji wbudowanych i desktopowych w C/C++, rozwijanych w większości indywidualnie, wspierających bezpieczeństwo, monitoring i komunikację przemysłową w kopalniach:
 
 - **Konsola identyfikacji połączeń** — nasłuch rozmów telefonicznych, wykrywanie przesyłanych sygnałów DTMF i prowadzenie rejestru połączeń, komunikacja z urządzeniem nasłuchowym przez port szeregowy.
 - **Serwer sterowania tablicą LED** — obsługa tablicy LED w pomieszczeniu dyspozytorskim, przypisywanie diod LED do czujników.
 - **Serwer komunikacyjny MODBUS** — ujednolicona biblioteka do komunikacji przez protokół Modbus.
 - **System monitorowania przemieszczania się ludzi** — śledzenie lokalizacji górników w poszczególnych rejonach kopalni, z aplikacją monitorującą i rejestrem zdarzeń.
-- **Iskrobezpieczny miernik teletechniczny MIT** — urządzenie do audytu linii elektrycznych w kopalni; obejmowało projekt konstrukcji mechanicznej, projekt PCB oraz oprogramowanie miernika i aplikacji na PC.
+- **Iskrobezpieczny miernik teletechniczny MIT** — urządzenie do audytu linii elektrycznych w kopalni; obejmowało projekt konstrukcji mechanicznej, projekt PCB oraz oprogramowanie miernika i aplikacji na PC; jedyny projekt z tej serii realizowany pod kierownictwem bezpośredniego przełożonego, nie indywidualnie.
 - **Biblioteka transmisji danych** — ujednolicona biblioteka komunikacyjna umożliwiająca konfigurację różnych kanałów komunikacji szeregowej.
 - **Serwer dystrybucji danych** — serwer w trybie publisher-subscriber, działający pod Linuksem.

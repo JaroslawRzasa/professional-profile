@@ -4,7 +4,7 @@ An overview of the scope and responsibilities behind each role in my career — 
 
 ## Puzzle Club
 
-*A sole proprietorship (JDG) — in Poland, the only available self-employment structure for a single person, serving as the legal vehicle for all of the service lines below.*
+*A sole proprietorship (JDG), covering all of the service lines below.*
 
 ### Founder — Oct 2012 – Present
 - **IT consulting** — software engineering, team organization, and IT management; programming services on demand.
@@ -27,6 +27,7 @@ Joined a project previously developed by a team in the US and took part in trans
 - Coordinated and oversaw the product release process during the responsibility transfer period.
 - Absorbed the product and technical knowledge needed for the Polish team to gradually become self-sufficient.
 
+#### Context for the role change — internal note, not for direct use in a CV
 During this role, the pace and scope of taking over the existing product context proved insufficient to reach the level of whole-product knowledge I expected of someone in the Tech Lead function. Over time, this led to the decision to step down from that function and move into a different scope of responsibility.
 
 ### Team Manager Consultant — Jun 2023 – Feb 2025
