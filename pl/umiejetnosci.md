@@ -18,6 +18,12 @@ Skategoryzowany przegląd moich kluczowych umiejętności technicznych i zawodow
 - Continuous Integration / Continuous Delivery (CI/CD)
 - Podejmowanie decyzji w oparciu o dane (Data-Driven Decision Making)
 - Projektowanie i zarządzanie wskaźnikami KPI / OKR
+- Extreme Programming (XP)
+- Programowanie w parach (Pair Programming)
+- Techniki estymacji (Planning Poker, T-Shirt Sizing, #NoEstimates)
+- Inżynieria wymagań zwinnych (User Stories, INVEST, Story Mapping, Persony)
+- Cele SMART
+- Śledzenie postępu (Burndown/Burnup, MVP)
 - Jira / Confluence
 
 ## Inżynieria i projektowanie oprogramowania
@@ -45,7 +51,9 @@ Skategoryzowany przegląd moich kluczowych umiejętności technicznych i zawodow
 - C
 - C#
 - Python
-- SQLite
+- Bash Scripting
+- SQL (SQLite, MySQL, MS SQL Server)
+- Jenkins / TeamCity
 - Yocto Project (Embedded Linux)
 - Selenium / WebDriver
 - Programowanie dla Windows
@@ -71,3 +79,4 @@ Skategoryzowany przegląd moich kluczowych umiejętności technicznych i zawodow
 - Coaching
 - Tutoring
 - Nauczanie (Teaching)
+- Communities of Practice

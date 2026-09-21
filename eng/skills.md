@@ -18,6 +18,12 @@ A categorized overview of my core technical and professional skills, reflecting 
 - Continuous Integration / Continuous Delivery (CI/CD)
 - Data-Driven Decision Making
 - KPI / OKR Design & Management
+- Extreme Programming (XP)
+- Pair Programming
+- Estimation Techniques (Planning Poker, T-Shirt Sizing, #NoEstimates)
+- Agile Requirements Engineering (User Stories, INVEST, Story Mapping, Personas)
+- SMART Goals
+- Progress Tracking (Burndown/Burnup, MVP)
 - Jira / Confluence
 
 ## Software Engineering & Design
@@ -45,7 +51,9 @@ A categorized overview of my core technical and professional skills, reflecting 
 - C
 - C#
 - Python
-- SQLite
+- Bash Scripting
+- SQL (SQLite, MySQL, MS SQL Server)
+- Jenkins / TeamCity
 - Yocto Project (Embedded Linux)
 - Selenium / WebDriver
 - Windows Programming
@@ -71,3 +79,4 @@ A categorized overview of my core technical and professional skills, reflecting 
 - Coaching
 - Tutoring
 - Teaching
+- Communities of Practice
