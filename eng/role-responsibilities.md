@@ -15,10 +15,19 @@ An overview of the scope and responsibilities behind each role in my career — 
 ## Comernal Software
 
 ### Software Engineering Consultant / Scrum Master — Mar 2026 – Jun 2026
-Built and supported an agile working environment for one team (8 people).
+Built and supported an agile working environment for one team (8 people); developed new functionality and fixed bugs in Cyclone REGISTER 360 PLUS (see [Developed Products](developed-products.md)).
 
 ### Tech Lead / Software Engineer Consultant — Mar 2025 – Feb 2026
-Led the transfer of a project from the US to Poland: absorbed product knowledge and represented the team in communication across the full value chain.
+Joined a project previously developed by a team in the US and took part in transferring responsibility for its development to Poland.
+
+- Represented the team in stakeholder meetings and served as the main point of contact between the team and the rest of the value chain.
+- Organized and documented the technical, product, and organizational context being taken over.
+- Led the Product Owner recruitment process, including organizing and conducting most candidate interviews together with other stakeholders.
+- Co-designed the collaboration model between the new Poland-based team and the remaining members of the existing US team.
+- Coordinated and oversaw the product release process during the responsibility transfer period.
+- Absorbed the product and technical knowledge needed for the Polish team to gradually become self-sufficient.
+
+During this role, the pace and scope of taking over the existing product context proved insufficient to reach the level of whole-product knowledge I expected of someone in the Tech Lead function. Over time, this led to the decision to step down from that function and move into a different scope of responsibility.
 
 ### Team Manager Consultant — Jun 2023 – Feb 2025
 Led the adaptation of Comernal Software into Hexagon's organizational structure; owned collaboration with B2B contractors: support, communication, performance evaluation and feedback, recruitment (including onboarding and offboarding), keeping the team aligned with market and legal requirements, and local team community-building initiatives.

@@ -15,10 +15,19 @@ Przegląd zakresu i odpowiedzialności w poszczególnych rolach w mojej karierze
 ## Comernal Software
 
 ### Software Engineering Consultant / Scrum Master — mar 2026 – cze 2026
-Budowanie i wspieranie zwinnego środowiska pracy dla jednego zespołu (8 osób).
+Budowanie i wspieranie zwinnego środowiska pracy dla jednego zespołu (8 osób); rozwój funkcjonalności i poprawianie błędów w Cyclone REGISTER 360 PLUS (zobacz [Rozwijane Produkty](rozwijane-produkty.md)).
 
 ### Tech Lead / Software Engineer Consultant — mar 2025 – lut 2026
-Prowadzenie transferu projektu z USA do Polski: przejęcie wiedzy produktowej i reprezentowanie zespołu w komunikacji na poziomie całego łańcucha wartości.
+Dołączenie do projektu rozwijanego wcześniej przez zespół w USA i udział w przenoszeniu odpowiedzialności za jego rozwój do Polski.
+
+- Reprezentowanie zespołu na spotkaniach z interesariuszami oraz pełnienie roli głównego punktu komunikacyjnego pomiędzy zespołem a pozostałymi uczestnikami łańcucha wartości.
+- Porządkowanie i dokumentowanie przejmowanego kontekstu technicznego, produktowego i organizacyjnego.
+- Prowadzenie procesu rekrutacji Product Ownera, w tym organizowanie i prowadzenie większości rozmów z kandydatami przy udziale pozostałych interesariuszy.
+- Współprojektowanie modelu współpracy pomiędzy nowym zespołem w Polsce a pozostałymi członkami dotychczasowego zespołu w USA.
+- Koordynowanie i dopilnowanie procesu wydania produktu w okresie transferu odpowiedzialności.
+- Przejmowanie wiedzy produktowej i technicznej potrzebnej do stopniowego usamodzielniania polskiego zespołu.
+
+W trakcie pełnienia tej roli okazało się, że tempo i zakres przejmowania istniejącego kontekstu produktowego były niewystarczające do osiągnięcia przeze mnie poziomu znajomości całego produktu, którego oczekiwałem od osoby pełniącej funkcję Tech Leada. Z czasem doprowadziło to do decyzji o rezygnacji z tej funkcji i przejściu do innego zakresu odpowiedzialności.
 
 ### Team Manager Consultant — cze 2023 – lut 2025
 Prowadzenie adaptacji Comernal Software do struktury organizacyjnej Hexagon; odpowiedzialność za współpracę z kontrahentami B2B: wsparcie, komunikacja, ocena wyników i informacja zwrotna, rekrutacja (w tym onboarding i offboarding), dbanie o zgodność zespołu z wymogami rynkowymi i prawnymi, a także inicjatywy integracyjne w lokalnym zespole.
