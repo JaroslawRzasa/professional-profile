@@ -1,6 +1,6 @@
 # Developed Products
 
-A curated overview of the products, tools, and functionalities I have designed and developed throughout my career. All of the work below was delivered as part of a team, though my role was significant — often the leading one — on most of these projects.
+A curated overview of the products, tools, and functionalities I have designed and developed throughout my career. All of the work below was delivered as part of a team; the scope and nature of my individual contribution to each is described alongside the product.
 
 ## Puzzle Club
 
@@ -43,7 +43,7 @@ The remaining contributions were made to Xpedition PCB, Mentor Graphics' profess
 ## Proventus sp. z o.o.
 
 ### Crossover Management Application
-Additional B2B contract engagement: a Windows desktop application for auditing telecom crossovers, built in C++ with a local SQLite database.
+Additional B2B contract engagement: a Windows desktop application for auditing telecom crossovers, built in C++ with a local SQLite database. *(Engagement dates: NO DATA AVAILABLE — to be filled in; this engagement also has no separate entry in the [Career Timeline](work-history-brief.md).)*
 
 
 ## R&D Centre for Electrical Engineering and Automation in Mining EMAG

@@ -3,7 +3,7 @@
 A concise overview of professional and scientific recognitions received throughout my career, including company awards, framework development recognition, and academic honors.
 
 ## Leica Geosystems
-Work delivered as a Comernal Software consultant embedded in the client's organization (see [Comernal Software](developed-products.md) in Developed Products).
+Work delivered as a Comernal Software consultant embedded in the client's organization (see the Scrum Master role in [Role Responsibilities](role-responsibilities.md)).
 
 ### 2021
 

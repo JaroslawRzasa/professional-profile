@@ -6,6 +6,7 @@ Formalne wykształcenie.
 **Master of Business Administration (MBA), specjalizacja IT · paź 2023 – cze 2025 · 1 rok 8 mies.**
 
 - Ukończone z wyróżnieniem.
+- Wyróżnienia i projekt doradczy — zobacz [Osiągnięcia Akademickie](osiagniecia-zawodowo-naukowe.md).
 
 
 ## Politechnika Wrocławska

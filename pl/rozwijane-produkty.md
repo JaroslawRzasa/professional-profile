@@ -1,6 +1,6 @@
 # Rozwijane Produkty
 
-Przegląd najważniejszych produktów, narzędzi i funkcjonalności, które zaprojektowałem i rozwijałem w trakcie mojej kariery. Wszystkie poniższe projekty realizowałem jako członek zespołu, jednak mój udział był znaczący — w większości z nich wręcz wiodący.
+Przegląd najważniejszych produktów, narzędzi i funkcjonalności, które zaprojektowałem i rozwijałem w trakcie mojej kariery. Wszystkie poniższe projekty realizowałem jako członek zespołu; zakres i charakter mojego indywidualnego wkładu w każdy z nich opisany jest przy danym produkcie.
 
 ## Puzzle Club
 
@@ -43,7 +43,7 @@ Pozostałe funkcjonalności rozwijałem w ramach Xpedition PCB — profesjonalne
 ## Proventus sp. z o.o.
 
 ### Aplikacja do zarządzania krosownicami
-Dodatkowe zlecenie, kontrakt B2B: aplikacja desktopowa dla Windows do audytowania krosownic telekomunikacyjnych, zbudowana w C++ z lokalną bazą danych SQLite.
+Dodatkowe zlecenie, kontrakt B2B: aplikacja desktopowa dla Windows do audytowania krosownic telekomunikacyjnych, zbudowana w C++ z lokalną bazą danych SQLite. *(Daty realizacji: BRAK DANYCH — do uzupełnienia; zlecenie nie ma też odrębnego wpisu w [Przebiegu kariery zawodowej](historia-zawodowa-skrot.md).)*
 
 
 ## Centrum Elektryfikacji i Automatyzacji Górnictwa „EMAG” - ośrodek badawczo rozwojowy

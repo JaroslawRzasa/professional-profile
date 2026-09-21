@@ -3,7 +3,7 @@
 Zwięzły przegląd nagród i osiągnięć zawodowo-naukowych zdobytych w trakcie mojej kariery, w tym nagród firmowych, uznania za rozwój frameworków oraz wyróżnień akademickich.
 
 ## Leica Geosystems
-Praca realizowana jako konsultant Comernal Software osadzony w strukturach klienta (zobacz sekcję [Comernal Software](rozwijane-produkty.md) w Rozwijanych Produktach).
+Praca realizowana jako konsultant Comernal Software osadzony w strukturach klienta (zobacz rolę Scrum Master w [Zakresie Obowiązków](zakres-obowiazkow.md)).
 
 ### 2021
 

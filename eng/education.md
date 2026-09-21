@@ -6,6 +6,7 @@ Formal academic qualifications.
 **Master of Business Administration (MBA), IT specialization · Oct 2023 – Jun 2025 · 1 yr 8 mos**
 
 - Graduated with honors.
+- Honors and advisory project — see [Key Professional & Scientific Achievements](professional-and-scientific-achievements.md).
 
 
 ## Wrocław University of Science and Technology
