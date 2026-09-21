@@ -4,9 +4,11 @@ Przegląd zakresu i odpowiedzialności w poszczególnych rolach w mojej karierze
 
 ## Puzzle Club
 
+*Jednoosobowa działalność gospodarcza (JDG) — w Polsce jedyna dostępna forma samozatrudnienia dla jednej osoby; w jej ramach prowadzone są wszystkie poniższe linie usług.*
+
 ### Założyciel — paź 2012 – obecnie
 - **Doradztwo IT** — inżynieria oprogramowania, organizacja zespołów i zarządzanie IT; usługi programistyczne na zlecenie.
-- **Edukacja szkolna** — sobotnia szkoła matematyki, logiki, łamigłówek, programowania i krytycznego myślenia dla dzieci, jako założyciel klubu ([puzzleclub.pl](http://www.puzzleclub.pl)).
+- **Edukacja szkolna** (paź 2012 – cze 2022, jako prowadzący zajęcia) — sobotnia szkoła matematyki, logiki, łamigłówek, programowania i krytycznego myślenia dla dzieci, jako założyciel klubu ([puzzleclub.pl](http://www.puzzleclub.pl)).
 - **Szkolenia akademickie i zawodowe** — kursy z zakresu zwinnego rozwoju produktu/projektu oraz szkolenia Scrum na zlecenie; przeprowadzenie szkoleń „Czysty Scrum” i „Praktyki Zwinne” w ramach programu współfinansowanego przez Europejski Fundusz Społeczny „Otwarci na Europę – szkolenia podnoszące kompetencje cyfrowe”.
 
 
@@ -19,10 +21,10 @@ Budowanie i wspieranie zwinnego środowiska pracy dla jednego zespołu (8 osób)
 Prowadzenie transferu projektu z USA do Polski: przejęcie wiedzy produktowej i reprezentowanie zespołu w komunikacji na poziomie całego łańcucha wartości.
 
 ### Team Manager Consultant — cze 2023 – lut 2025
-Odpowiedzialność za współpracę z kontrahentami B2B: wsparcie, komunikacja, ocena wyników i informacja zwrotna, rekrutacja oraz dbanie o zgodność zespołu z wymogami rynkowymi i prawnymi.
+Prowadzenie adaptacji Comernal Software do struktury organizacyjnej Hexagon; odpowiedzialność za współpracę z kontrahentami B2B: wsparcie, komunikacja, ocena wyników i informacja zwrotna, rekrutacja (w tym onboarding i offboarding), dbanie o zgodność zespołu z wymogami rynkowymi i prawnymi, a także inicjatywy integracyjne w lokalnym zespole.
 
 ### Scrum Master — maj 2019 – wrz 2023
-Budowanie i wspieranie zwinnego środowiska pracy dla dwóch zespołów (12 osób); udział w procesie skalowania zwinności u klienta Leica Geosystems (ARISER — wewnętrzny framework tej organizacji, podobny do SAFe), realizowany jako konsultant Comernal Software osadzony w strukturach klienta.
+Budowanie i wspieranie zwinnego środowiska pracy dla dwóch zespołów (12 osób), w tym prowadzenie szkoleń i warsztatów podnoszących dojrzałość zwinną zespołów; udział w procesie skalowania zwinności u klienta Leica Geosystems (ARISER — wewnętrzny framework tej organizacji, podobny do SAFe), realizowany jako konsultant Comernal Software osadzony w strukturach klienta.
 
 ### Senior Software Engineer — paź 2018 – maj 2023
 Rozwój firmware'u, narzędzi pomocniczych i automatyzacji testów dla linii produktowej stacji referencyjnych GNSS (zobacz [Rozwijane Produkty](rozwijane-produkty.md)).
@@ -36,7 +38,7 @@ Rozwój firmware'u, narzędzi pomocniczych i automatyzacji testów dla linii pro
 - Agile coach i trener — projektowanie i prowadzenie szkoleń wdrożeniowych i przypominających Agile/Scrum dla nowych pracowników.
 - Skalowanie Scruma według metodyk LeSS i SAFe.
 - Facylitacja wydarzeń Program Increment oraz cyklu przejrzystości/inspekcji/adaptacji.
-- Ewangelista i mentor Agile/Scrum.
+- Ewangelista Agile/Scrum oraz mentor osób pełniących role Scrum Mastera i Product Ownera.
 - Usuwanie przeszkód na poziomie programu.
 - Prowadzenie rozmów rekrutacyjnych na stanowiska Scrum Master i Product Owner.
 

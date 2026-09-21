@@ -5,7 +5,9 @@ Zwięzłe podsumowanie mojego doświadczenia zawodowego, pełnionych ról i rozw
 
 ## Puzzle Club
 
-**Samozatrudnienie · paź 2012 – obecnie · 14 lat**
+**Samozatrudnienie (jednoosobowa działalność gospodarcza) · paź 2012 – obecnie · 14 lat**
+
+*Cała działalność na własny rachunek — zarówno sobotnia szkoła, jak i usługi doradcze oraz programistyczne — jest prowadzona w ramach jednej jednoosobowej działalności gospodarczej (zobacz [Zakres Obowiązków](zakres-obowiazkow.md)).*
 
 - **Założyciel** — paź 2012 – obecnie · 14 lat
 

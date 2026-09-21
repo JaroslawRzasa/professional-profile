@@ -34,7 +34,7 @@ Produkt rozwijany dla Valor, izraelskiej firmy przejętej przez Mentor Graphics.
 ### Xpedition PCB
 Pozostałe funkcjonalności rozwijałem w ramach Xpedition PCB — profesjonalnego pakietu Mentor Graphics do projektowania i layoutu płytek drukowanych, wykorzystywanego przez inżynierów elektroników do projektowania PCB i obudów scalonych. Zbudowane głównie w C++ z MFC i COM (oraz OpenGL do wizualizacji 3D), dla Windows, Linux, SunOS i HP-UX (32/64-bit), z w pełni zautomatyzowanymi testami jednostkowymi i funkcjonalnymi:
 
-- **Sterowanie widokiem i komponentami** — dynamicznie tworzone okno dialogowe do sterowania ponad tysiącem typów elementów, z możliwością włączania/wyłączania widoczności, koloru i wzoru każdego elementu, funkcjami ulubionych, zapisu/wczytywania schematów, wyszukiwania i ukrywania elementów, uzupełnione o eksplorator komponentów do zarządzania ich rozmieszczeniem na płytce.
+- **Sterowanie widokiem i komponentami** (Display Control Dialog, Component Explorer) — dynamicznie tworzone okno dialogowe do sterowania ponad tysiącem typów elementów, z możliwością włączania/wyłączania widoczności, koloru i wzoru każdego elementu, funkcjami ulubionych, zapisu/wczytywania schematów, wyszukiwania i ukrywania elementów, uzupełnione o eksplorator komponentów do zarządzania ich rozmieszczeniem na płytce.
 - **Pakiet Wirebonding** — zaawansowana funkcjonalność do projektowania i weryfikacji połączeń drutowych w obudowach scalonych: modelowanie drutów za pomocą równań parametrycznych z zaokrąglonymi narożami lub krzywymi Béziera, weryfikacja reguł projektowych w 3D (3D DRC) pod kątem zagrożeń wynikających z bliskości elementów (tryb online i wsadowy), automatyczne generowanie wzorów połączeń drutowych z pełną walidacją 3D DRC, konfigurowalne reguły dla połączeń wielodrutowych oraz obsługa układania stosów i wnęk.
 - **Projektowanie RF** — generowanie przelotek (stitch via) minimalizujących straty promieniowania (wewnątrz płaszczyzn, wzdłuż konturu lub we wzorach promienistych bądź macierzowych) oraz reguły wejścia określające kierunek połączeń elementów RF, w trybie ręcznym i automatycznym.
 - **Elementy bierne wbudowane** — projektowanie wbudowanych elementów biernych bezpośrednio na płytce PCB.
@@ -43,7 +43,7 @@ Pozostałe funkcjonalności rozwijałem w ramach Xpedition PCB — profesjonalne
 ## Proventus sp. z o.o.
 
 ### Aplikacja do zarządzania krosownicami
-Dodatkowe zlecenie, kontrakt B2B: aplikacja desktopowa dla Windows do audytowania krosownic telekomunikacyjnych, zbudowana w C++ z lokalną bazą danych SQLite. *(Daty realizacji: BRAK DANYCH — do uzupełnienia; zlecenie nie ma też odrębnego wpisu w [Przebiegu kariery zawodowej](historia-zawodowa-skrot.md).)*
+Dodatkowe zlecenie, krótka umowa o dzieło (kilka tygodni, poza JDG Puzzle Club): aplikacja desktopowa dla Windows do audytowania krosownic telekomunikacyjnych, zbudowana w C++ z lokalną bazą danych SQLite. *(Dokładne daty realizacji: BRAK DANYCH.)*
 
 
 ## Centrum Elektryfikacji i Automatyzacji Górnictwa „EMAG” - ośrodek badawczo rozwojowy

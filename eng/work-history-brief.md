@@ -2,7 +2,9 @@
 A concise overview of my professional experience, roles, and career progression.
 
 ## Puzzle Club
-**Self-employed · Oct 2012 – Present · 14 yrs**
+**Self-employed (sole proprietorship, JDG) · Oct 2012 – Present · 14 yrs**
+
+*A single sole proprietorship as the legal vehicle for all my self-employed work — both the school and consulting/software development services (see [Role Responsibilities](role-responsibilities.md)).*
 
 - **Founder** — Oct 2012 – Present · 14 yrs
 

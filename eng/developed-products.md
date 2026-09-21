@@ -34,7 +34,7 @@ Developed for Valor, an Israeli company acquired by Mentor Graphics. A component
 ### Xpedition PCB
 The remaining contributions were made to Xpedition PCB, Mentor Graphics' professional PCB design and layout software suite used by electronics engineers to design printed circuit boards and IC packaging. Built primarily in C++ with MFC and COM (plus OpenGL for 3D visualization), running on Windows, Linux, SunOS, and HP-UX (32/64-bit), with fully automated unit and functional testing throughout:
 
-- **Display & component control** — a dynamically generated dialog for controlling more than a thousand item types, with per-item visibility, colour, and pattern settings, favourites, scheme save/load, search, and hide/show, complemented by a component explorer for managing board placement.
+- **Display & component control** (Display Control Dialog, Component Explorer) — a dynamically generated dialog for controlling more than a thousand item types, with per-item visibility, colour, and pattern settings, favourites, scheme save/load, search, and hide/show, complemented by a component explorer for managing board placement.
 - **Wirebonding suite** — advanced IC-packaging functionality for designing and validating wire bonds: parametric wire modelling with rounded or Bézier-curve corners, 3D Design Rule Check for proximity-hazard detection (online and batch modes), automated wire-pattern generation with full 3D DRC validation, configurable multi-wire-bond rules, and die stacking/cavity support.
 - **RF design** — stitch-via generation to minimize radiation loss (within planes, along contours, or in radial/array patterns) and entry rules controlling RF connection direction, manually or automatically.
 - **Embedded passives** — design of embedded passive elements directly on the PCB.
@@ -43,7 +43,7 @@ The remaining contributions were made to Xpedition PCB, Mentor Graphics' profess
 ## Proventus sp. z o.o.
 
 ### Crossover Management Application
-Additional B2B contract engagement: a Windows desktop application for auditing telecom crossovers, built in C++ with a local SQLite database. *(Engagement dates: NO DATA AVAILABLE — to be filled in; this engagement also has no separate entry in the [Career Timeline](work-history-brief.md).)*
+Additional engagement, a short specific-task contract (umowa o dzieło, a few weeks, outside the Puzzle Club sole proprietorship): a Windows desktop application for auditing telecom crossovers, built in C++ with a local SQLite database. *(Exact engagement dates: NO DATA AVAILABLE.)*
 
 
 ## R&D Centre for Electrical Engineering and Automation in Mining EMAG

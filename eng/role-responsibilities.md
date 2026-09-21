@@ -4,9 +4,11 @@ An overview of the scope and responsibilities behind each role in my career — 
 
 ## Puzzle Club
 
+*A sole proprietorship (JDG) — in Poland, the only available self-employment structure for a single person, serving as the legal vehicle for all of the service lines below.*
+
 ### Founder — Oct 2012 – Present
 - **IT consulting** — software engineering, team organization, and IT management; programming services on demand.
-- **School education** — Saturday school teaching mathematics, logic, puzzles, programming, and critical thinking to children, as founder of the club ([puzzleclub.pl](http://www.puzzleclub.pl)).
+- **School education** (Oct 2012 – Jun 2022, as instructor) — Saturday school teaching mathematics, logic, puzzles, programming, and critical thinking to children, as founder of the club ([puzzleclub.pl](http://www.puzzleclub.pl)).
 - **Academic & professional training** — Agile product/project development courses and Scrum training on demand; delivered the "Clean Scrum" and "Agile Practices" courses as part of a program co-financed by the European Social Fund, "Open to Europe – Training Increasing Digital Competencies."
 
 
@@ -19,10 +21,10 @@ Built and supported an agile working environment for one team (8 people).
 Led the transfer of a project from the US to Poland: absorbed product knowledge and represented the team in communication across the full value chain.
 
 ### Team Manager Consultant — Jun 2023 – Feb 2025
-Owned collaboration with B2B contractors: support, communication, performance evaluation and feedback, recruitment, and keeping the team aligned with market and legal requirements.
+Led the adaptation of Comernal Software into Hexagon's organizational structure; owned collaboration with B2B contractors: support, communication, performance evaluation and feedback, recruitment (including onboarding and offboarding), keeping the team aligned with market and legal requirements, and local team community-building initiatives.
 
 ### Scrum Master — May 2019 – Sep 2023
-Built and supported an agile working environment for two teams (12 people); contributed to Leica Geosystems' Agile scaling effort (ARISER, an internal framework similar to SAFe) while delivering this engagement as a Comernal Software consultant embedded in the client's organization.
+Built and supported an agile working environment for two teams (12 people), including running training and workshops to raise team agile maturity; contributed to Leica Geosystems' Agile scaling effort (ARISER, an internal framework similar to SAFe) while delivering this engagement as a Comernal Software consultant embedded in the client's organization.
 
 ### Senior Software Engineer — Oct 2018 – May 2023
 Firmware, tooling, and test-automation development for the GNSS reference station product line (see [Developed Products](developed-products.md)).
@@ -36,7 +38,7 @@ Firmware, tooling, and test-automation development for the GNSS reference statio
 - Agile coach and teacher — designed and delivered Agile/Scrum onboarding and refresher training for new employees.
 - Scaled Scrum per LeSS and SAFe methodologies.
 - Facilitated Program Increment events and the transparency/inspection/adaptation cycle.
-- Agile/Scrum evangelist and mentor.
+- Agile/Scrum evangelist and mentor to Scrum Masters and Product Owners.
 - Removed impediments at the program level.
 - Interviewed Scrum Master and Product Owner candidates.
 
