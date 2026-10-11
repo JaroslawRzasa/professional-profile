@@ -2,7 +2,7 @@
 
 Jarosław Rząsa
 
-Jestem inżynierem oprogramowania i liderem technicznym, który koncentruje się na doskonaleniu systemów — od kodu i architektury, przez sposób pracy zespołów, po procesy organizacyjne. Łączę ponad dwie dekady doświadczenia w rozwoju oprogramowania z doświadczeniem Tech Leada, Team Leada, Scrum Mastera, RTE i managera. W każdym z tych obszarów stosuję podobne podejście: poznanie systemu, analizę jego ograniczeń, wdrażanie usprawnień oraz iteracyjne doskonalenie na podstawie informacji zwrotnej.
+Jestem inżynierem oprogramowania i liderem rozwoju produktu, dla którego Agile Software/Product Development jest sposobem budowania i doskonalenia złożonych systemów — technicznych, zespołowych i organizacyjnych. Łączę ponad dwie dekady doświadczenia w software engineering z doświadczeniem Tech Leada, Team Leada, Scrum Mastera, Release Train Engineera i managera. Pracowałem zarówno bezpośrednio z kodem i produktami, jak i nad sposobem współpracy zespołów oraz skalowaniem procesu rozwoju oprogramowania do programów obejmujących do 9 zespołów i ponad 80 osób. W każdym z tych obszarów kieruję się podobnym cyklem: zrozumieć system, ujawnić jego ograniczenia, wprowadzić zmianę, obserwować informację zwrotną i iteracyjnie go doskonalić.
 
 ## Kontakt
 
